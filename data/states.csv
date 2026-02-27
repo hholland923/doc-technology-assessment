@@ -1,0 +1,51 @@
+state_name,state_code,region,maturity_level,num_facilities,incarcerated_pop,annual_it_budget_est_millions,education_programs_count,second_chance_pell,current_tech_summary,key_opportunities,procurement_cycle
+Alabama,AL,Southeast,1,27,26000,3.2,4,Yes,Basic face-to-face education with limited digital tools in select facilities,Network infrastructure; endpoint deployment; offline LMS implementation,October
+Alaska,AK,West,1,12,4300,1.8,3,No,Minimal technology in education programs across remote facilities,Full technology stack buildout; remote access solutions for rural locations,July
+Arizona,AZ,West,2,16,37000,5.1,6,Yes,Some facilities have offline networks with shared desktop computers,Expand to managed student laptops; VPN for educators; LMS standardization,July
+Arkansas,AR,Southeast,0,18,16000,2.1,2,No,Correspondence courses only with limited face-to-face instruction,Complete digital transformation; network buildout; endpoint procurement,July
+California,CA,West,3,34,97000,28.5,22,Yes,Multiple facilities with offline LMS and VPN access for remote educators,Expand video conferencing statewide; standardize platform across all 34 facilities,July
+Colorado,CO,West,3,23,17000,6.8,12,Yes,Offline networks with remote educator access deployed in most major facilities,Video conferencing expansion; content management system; device refresh,July
+Connecticut,CT,Northeast,3,14,9200,4.2,8,Yes,Advanced offline LMS with VPN educator access in majority of facilities,Full LMS integration across all sites; expand course catalog technology,July
+Delaware,DE,Northeast,2,7,4500,1.9,4,Yes,Offline student networks operational in select larger facilities,Expand network coverage to all facilities; add remote access capabilities,July
+Florida,FL,Southeast,2,56,80000,15.3,14,Yes,Mixed deployment - some offline networks but highly inconsistent across 56 facilities,Massive standardization opportunity; centralized endpoint management at scale,July
+Georgia,GA,Southeast,1,34,47000,7.2,6,Yes,Face-to-face education with basic shared computer labs in larger facilities,Network infrastructure; managed student laptops; offline LMS deployment,July
+Hawaii,HI,West,1,4,3800,1.4,3,No,Limited face-to-face programs in small facility system,Full technology buildout; networking infrastructure; managed endpoints,July
+Idaho,ID,West,1,10,9200,2.3,3,No,Basic shared computer labs in select facilities only,Offline network deployment; LMS platform; student laptop program,July
+Illinois,IL,Midwest,2,28,27000,8.1,10,Yes,Offline student networks deployed in larger facilities; gaps in smaller sites,Expand to all 28 facilities; add VPN and video conferencing capabilities,July
+Indiana,IN,Midwest,2,20,24000,5.4,7,Yes,Offline networks operational in approximately half of facilities,Expansion and standardization across full system; remote educator access,October
+Iowa,IA,Midwest,2,9,8400,2.8,5,Yes,Offline networks deployed in most facilities with face-to-face instruction,VPN for remote educator access; video conferencing infrastructure,July
+Kansas,KS,Midwest,1,9,9300,2.4,4,No,Face-to-face programs with limited shared technology resources,Network infrastructure buildout; offline LMS; managed student endpoints,July
+Kentucky,KY,Southeast,1,14,11000,3.1,4,Yes,Basic face-to-face instruction with some shared computer access,Network buildout; student laptop program; LMS platform deployment,July
+Louisiana,LA,Southeast,1,9,27000,3.8,4,No,Face-to-face education only in select larger facilities,Full technology infrastructure needed across system; high population density,July
+Maine,ME,Northeast,2,6,1700,1.2,4,Yes,Small offline networks operational in select facilities,Expand coverage and add remote educator access capabilities,July
+Maryland,MD,Northeast,2,18,17000,5.6,8,Yes,Offline student networks deployed in several larger facilities,VPN deployment for educators; video conferencing; content management,July
+Massachusetts,MA,Northeast,3,16,6700,4.8,10,Yes,Offline LMS with VPN access for educators in most facilities,Expand video conferencing; enhance monitoring and reporting capabilities,July
+Michigan,MI,Midwest,2,29,33000,8.4,10,Yes,Offline networks in larger facilities with face-to-face instruction,Standardization across 29 facilities; remote educator access expansion,October
+Minnesota,MN,Midwest,2,11,9100,3.6,7,Yes,Offline networks with face-to-face teaching in most facilities,VPN deployment for educators; video conferencing; content platform,July
+Mississippi,MS,Southeast,0,21,17000,2.0,2,No,Correspondence and limited face-to-face only; minimal technology investment,Complete technology infrastructure buildout; high-need opportunity,July
+Missouri,MO,Midwest,1,20,23000,4.2,5,Yes,Face-to-face programs with basic shared computer labs,Offline network deployment; managed student laptops; LMS platform,July
+Montana,MT,West,1,5,2700,1.1,2,No,Limited face-to-face programs with minimal technology,Full technology stack needed; remote access critical for rural locations,July
+Nebraska,NE,Midwest,1,10,5400,2.0,3,Yes,Basic shared computer labs in some facilities,Network infrastructure; offline LMS platform; managed student endpoints,July
+Nevada,NV,West,1,8,11000,2.7,3,No,Face-to-face education with limited shared technology resources,Network buildout; offline LMS; student device program,July
+New Hampshire,NH,Northeast,2,3,2100,1.3,4,Yes,Offline network deployed in primary facility,Expand capabilities to all sites; add remote educator access,July
+New Jersey,NJ,Northeast,2,12,14000,5.8,9,Yes,Offline student networks operational in several larger facilities,VPN for remote educators; video conferencing; expand to all 12 facilities,July
+New Mexico,NM,West,1,11,6300,2.2,3,Yes,Face-to-face programs with basic shared technology in larger facilities,Offline networks; managed student laptops; LMS deployment,July
+New York,NY,Northeast,3,52,31000,18.2,18,Yes,Advanced programs with offline LMS and educator VPN in major facilities,Expand video conferencing statewide; standardize across 52 facilities,April
+North Carolina,NC,Southeast,2,56,30000,7.8,9,Yes,Some facilities have offline networks; highly inconsistent deployment,Expansion and standardization across large 56-facility system,July
+North Dakota,ND,Midwest,1,4,1800,0.9,2,No,Limited face-to-face programs with minimal technology resources,Full technology deployment across small facility system,July
+Ohio,OH,Midwest,3,28,43000,11.2,14,Yes,Offline LMS with VPN and some video conferencing in larger facilities,Content management platform; expand to all 28 facilities; device refresh,July
+Oklahoma,OK,South,1,23,24000,3.6,4,No,Face-to-face education with minimal technology across large system,Full technology infrastructure buildout; high facility count opportunity,July
+Oregon,OR,West,3,14,12000,5.2,10,Yes,Offline networks with remote educator access in most facilities,Video conferencing expansion; content platform; enhanced monitoring,July
+Pennsylvania,PA,Northeast,2,24,37000,9.8,11,Yes,Offline networks in larger facilities; gaps in smaller sites,Expand coverage to all 24 facilities; add VPN and video capabilities,July
+Rhode Island,RI,Northeast,2,5,2400,1.5,4,Yes,Offline network operational in primary facility,Remote educator access; video conferencing; expand to all sites,July
+South Carolina,SC,Southeast,1,21,15000,3.4,4,Yes,Face-to-face instruction with basic shared computer labs,Network infrastructure; offline LMS; managed student device program,July
+South Dakota,SD,Midwest,0,5,3600,0.8,1,No,Correspondence courses primarily; very limited technology investment,Complete technology buildout required across all facilities,July
+Tennessee,TN,Southeast,1,14,21000,4.0,5,Yes,Face-to-face programs with limited shared technology resources,Offline networks; managed student laptops; LMS platform deployment,July
+Texas,TX,South,2,104,134000,22.1,15,Yes,Some offline networks in larger facilities; vast system with inconsistent deployment,Massive standardization opportunity across 104 facilities; centralized management,September
+Utah,UT,West,2,7,5900,2.1,5,Yes,Offline network deployed in primary facility,Expand to all facilities; add remote educator access and video,July
+Vermont,VT,Northeast,2,6,1400,1.0,4,Yes,Small offline networks in most facilities,Enhance with VPN and video conferencing; content management,July
+Virginia,VA,Southeast,2,42,24000,7.4,9,Yes,Offline networks in select larger facilities; gaps across 42-facility system,Expansion to all facilities; remote educator access; video conferencing,July
+Washington,WA,West,3,12,15000,6.8,12,Yes,Advanced offline LMS with VPN educator access in most facilities,Video conferencing expansion; content management; enhanced monitoring,July
+West Virginia,WV,Southeast,1,12,6200,1.8,3,No,Face-to-face instruction with basic shared computer access,Network infrastructure; offline LMS; managed student devices,July
+Wisconsin,WI,Midwest,2,37,20000,5.6,7,Yes,Offline networks deployed in larger facilities; gaps in smaller sites,Expand to all 37 facilities; add remote educator access capabilities,July
+Wyoming,WY,West,1,5,2000,0.8,2,No,Limited face-to-face programs with minimal technology investment,Full technology infrastructure buildout for small facility system,July
