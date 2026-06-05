@@ -13,18 +13,6 @@ cp .streamlit/secrets.toml.example .streamlit/secrets.toml
 streamlit run app.py
 ```
 
-### Deploy to Streamlit Cloud
-
-1. Push this repo to GitHub
-2. Go to [share.streamlit.io](https://share.streamlit.io)
-3. Connect your GitHub account and select this repo
-4. Set `app.py` as the main file
-5. In **Advanced Settings > Secrets**, add:
-   ```toml
-   password = "your-chosen-password"
-   ```
-6. Deploy
-
 ### Password Protection
 
 The app requires a password to access. Set it via:
